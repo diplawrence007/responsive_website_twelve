@@ -1,0 +1,51 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+.WHAT-POEPLE-text h4 {
+    padding: 36px 100px 36px 0px;
+}
+
+
+
+/* Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.WHAT-POEPLE-text h4 {
+    padding: 36px 10px 36px 0px;font-size:16px
+}
+.header-icon-two {
+	text-decoration: none;
+	color: white;
+	background: #4466c9;
+	padding: 11px 34px;
+	font-size: 13px;
+	font-weight: 700;
+	border-radius: 5px;
+	margin-top: 11px;
+	
+}
+}
+
+
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 480px) and (max-width:767px) {
+.WHAT-POEPLE-text h4 {
+    padding: 36px 10px 36px 0px;
+	font-size:16px
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
